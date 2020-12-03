@@ -4,6 +4,6 @@
 
 pip install pyngrok
 
-#for linux 
+# for linux 
 
 sudo pip3 install pyngrok
