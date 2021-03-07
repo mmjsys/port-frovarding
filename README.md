@@ -1,13 +1,14 @@
 # port-frovarding
 
 ## for windows 
-''' bash
+'''bash
 pip install pyngrok
 python file.py
 '''
 
 ## for linux 
-''' bash
+
+'''bash
 sudo pip3 install pyngrok
 python3 file.py
 '''
